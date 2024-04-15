@@ -1,1 +1,1 @@
-ThuanTruong
+print("Hello World from ThuanTruong")
